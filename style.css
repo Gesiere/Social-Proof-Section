@@ -22,7 +22,7 @@ body{
     background-position: top left,right bottom ;
     padding-top: 5rem;
     text-align: center;
-    font-family: 'Spartan', sans-serif;
+    /* font-family: 'Spartan', sans-serif; */
     
 
 }
@@ -161,9 +161,14 @@ body{
     
     }
 
+   
+
     .reviews .stars{
+        
         margin: 0 1.5rem 0 0;
     }
+
+  
     
     .ratings:first-of-type{
         transform: translateX(-2rem);
