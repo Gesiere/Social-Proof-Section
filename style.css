@@ -117,7 +117,7 @@ body{
 @media (min-width: 775px){
 
     body{
-        background-image: url(/images/bg-pattern-top-desktop.svg), url(/images/);
+        background-image: url(/images/bg-pattern-top-desktop.svg), url(/images/bg-pattern-bottom-desktop.svg);
     }
    .main-section{
         max-width:1100px ;
