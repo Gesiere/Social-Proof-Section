@@ -192,16 +192,16 @@ body{
     }
 
     .quote{
-        font-size: 1.4rem;
-        font-weight: 300;
+        font-size: 1.05rem;
+        font-weight: 400;
     }
 
     .customers:nth-child(2){
-        transform: translateY(3rem);
+        transform: translateY(1rem);
     }
 
     .customers:nth-child(3){
-        transform: translateY(5rem);
+        transform: translateY(2rem);
     }
 }
     
